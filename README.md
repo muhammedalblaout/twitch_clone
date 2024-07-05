@@ -1,4 +1,10 @@
 
+<p>
+<img  width="40%" src="screenshots/top1.png">
+
+<img  width="40%" src="screenshots/top2.png">
+
+</p>
 
 <div align="center">
 
@@ -9,12 +15,7 @@ Experience the excitement of live streaming on our user-friendly Twitch clone ap
 
 </div>
 
-<p>
-<img align="left" width="40%" src="screenshots/top1.png">
 
-<img align="right" width="40%" src="screenshots/top2.png">
-
-</p>
 
 
 # :star2: Screenshots
