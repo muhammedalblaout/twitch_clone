@@ -1,10 +1,10 @@
 
-<p>
+<div align="center">
 <img  width="40%" src="screenshots/top1.png">
 
 <img  width="40%" src="screenshots/top2.png">
 
-</p>
+</div>
 
 <div align="center">
 
