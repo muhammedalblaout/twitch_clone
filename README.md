@@ -1,16 +1,8 @@
-# twitch_clone
+<div align="center">
 
-A new Flutter project.
+  <h1>Twitch Clone</h1>
+<p>
+Experience the excitement of live streaming on our user-friendly Twitch clone app. Explore a diverse selection of streams from gaming to music, art, and more. Engage with talented content creators and connect with like-minded viewers in a vibrant community. Download now and immerse yourself in the world of live streaming anytime, anywhere.
+</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</div>
