@@ -1,0 +1,1 @@
+enum AgoraRole { publisher, subscriber }

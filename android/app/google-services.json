@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1064133917758",
+    "firebase_url": "https://twtich-e2bed-default-rtdb.firebaseio.com",
+    "project_id": "twtich-e2bed",
+    "storage_bucket": "twtich-e2bed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064133917758:android:ca07d9ac848d055138656f",
+        "android_client_info": {
+          "package_name": "com.example.twitch_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ1fBcHcIHf8O6A12SvrsgmAWv1-k5iz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
