@@ -6,3 +6,11 @@ Experience the excitement of live streaming on our user-friendly Twitch clone ap
 </p>
 
 </div>
+
+# :star2: About
+
+<div align="center"> 
+  <img src="read_me/top1.png" alt="top" />
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="screenshots/top2.png.png" alt="top" />
+</div>
