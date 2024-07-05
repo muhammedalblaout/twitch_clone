@@ -1,7 +1,9 @@
-<div align="center">
-
+<div align="center"> 
 <img align="left" width="40%" src="screenshots/top1.png">
 <img align="right" width="40%" src="screenshots/top2.png">
+
+</div>
+<div align="center">
 
 <h1>Twitch Clone</h1>
 <p>
@@ -10,6 +12,15 @@ Experience the excitement of live streaming on our user-friendly Twitch clone ap
 
 </div>
 
-# :star2: About
+# :star2: Screenshots
+<div align="center"> 
+  <img src="screenshots/auth.png" alt="screenshot" />
+</div>
+<div align="center"> 
+  <img src="screenshots/home.png" alt="screenshot" />
+</div>
+<div align="center"> 
+  <img src="screenshots/live.png" alt="screenshot" />
+</div>
 
 
