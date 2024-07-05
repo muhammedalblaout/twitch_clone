@@ -30,3 +30,8 @@ Experience the excitement of live streaming on our user-friendly Twitch clone ap
 </div>
 
 
+### :dart: Features
+- Authentication: Securely log in to the app using Firebase Authentication for enhanced account security and personalized user experiences.
+- Browse Live Stream: Explore a wide variety of live streams across different categories. Easily find and join live streams that interest you.
+- Go Live: Start your own live stream and share your content with the world. Engage with your audience in real-time.
+- Live Chat: Interact with the live streamer and other viewers through a real-time chat feature.
