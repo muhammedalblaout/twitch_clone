@@ -4,6 +4,8 @@
 
 </div>
 <div align="center">
+</div>
+<div align="center">
 
 <h1>Twitch Clone</h1>
 <p>
