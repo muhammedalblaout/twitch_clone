@@ -9,11 +9,13 @@ Experience the excitement of live streaming on our user-friendly Twitch clone ap
 
 </div>
 
-<div align="center"> 
+<p>
 <img align="left" width="40%" src="screenshots/top1.png">
+
 <img align="right" width="40%" src="screenshots/top2.png">
 
-</div>
+</p>
+
 
 # :star2: Screenshots
 <div align="center"> 
